@@ -9,7 +9,7 @@ public class FactorialAgmnt {
         Factorial of 5 is : 5x4x3x2x1 = 120 */
 
         int i,fact=1;
-     //   int num=i;
+
         int input;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Number ");
